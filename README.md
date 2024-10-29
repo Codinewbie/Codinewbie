@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Codinewbie/Codinewbie/main/amanbanner.jpg" />
+</p>
 
 <p align="center">
 
